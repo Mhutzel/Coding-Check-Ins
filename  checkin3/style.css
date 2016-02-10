@@ -1,0 +1,38 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  border-style: double;
+  border-width: thick;
+  color: white;
+  font-family: fantasy;
+  font-weight: bolder;
+  font-size: 50px
+}
+
+a:visited {
+  text-decoration: none;
+  color: darkblue;
+}
+
+h2 {
+  color: darkblue;
+  font-family: cursive;
+}
+
+p {
+  padding: 8px;
+  color: darkblue;
+  font-family: fantasy;
+}
+
+blockquote {
+  color: darkblue;
+  font-family: fantasy;
+  text-align: center;
+}
+
+h6 {
+  color: white;
+}
